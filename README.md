@@ -1,2 +1,8 @@
-# ahtapot-playbook-template
-Playbook Templates to use with Ahtapot BSGS Project 
+##Ahtapot BSGS 
+###Open Source Edition 
+Playbook Template
+
+Playbook templates to use with Ahtapot Cyber Security Project.
+
+These Playbooks designed to use with Pardus/Linux operating system.
+
